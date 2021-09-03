@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Engenharia da computação
 - 📫 Contate-me no e-mail alisonletos@hotmail.com
-- 😄 Pronouns: ...
 - 
  <div>
   <a href="https://github.com/AlisonLetos">
