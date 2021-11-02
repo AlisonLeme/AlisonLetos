@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Alison Leme 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Desenvolvedor Full Stack
 - 🌱 Estudando Engenharia da computação
 - 📫 Contate-me no e-mail alisonletos@hotmail.com
  <div>
@@ -18,8 +18,8 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/AlisonLetos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alisonletos@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alison-leme-57a9541a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/AlisonLetos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
+  <a href = "mailto:alisonletos@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+  <a href="https://www.linkedin.com/in/alison-leme-57a9541a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a> 
  
 </div>
