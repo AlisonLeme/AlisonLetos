@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Alison Leme 👋
 
-- 🔭 Desenvolvedor RPA
+- 🔭 Desenvolvedor Web
 - 🌱 Estudando Engenharia da computação
 - 📫 Contate-me no e-mail alisonletos@hotmail.com
  <div>
